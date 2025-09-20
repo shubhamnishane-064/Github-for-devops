@@ -1,0 +1,1 @@
+print "shubham nishane"+"enter the name"
