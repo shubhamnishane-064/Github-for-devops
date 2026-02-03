@@ -1,1 +1,2 @@
- shubham@shubham-IdeaPad-Gaming-3-15IHU6:~/local$ 
+#!/bash/bin
+echo "enter the name of the student"
